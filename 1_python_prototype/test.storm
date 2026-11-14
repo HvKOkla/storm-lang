@@ -1,0 +1,10 @@
+// Mon premier fichier Storm
+pure fn add(a: int, b: int) -> int {
+    let x = 10
+    var y: int = 20
+    y += 1
+    if x == 10 {
+        return a + b
+    }
+    return 0
+}
